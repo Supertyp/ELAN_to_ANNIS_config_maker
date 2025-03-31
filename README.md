@@ -1,4 +1,4 @@
-# ELAN_to_ANNIS_config_maker
+# ELAN Inventory and ANNIS config maker
 load elan files and create a config file for data cleaning for ANNIS import
 
 * run html file in browser
